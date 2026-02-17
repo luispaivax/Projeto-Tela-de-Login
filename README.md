@@ -40,3 +40,9 @@ Este projeto é uma **tela de login simples** construída com **React**. O objet
    - Exibe um alert com os dados digitados (simulação de envio).
 
 5. **Link de cadastro**: Redireciona para a página de registro (não implementada).
+
+## Dependências
+
+   - npm install
+   - npm install react-icons
+   - npm run dev (para rodar localmente) 
