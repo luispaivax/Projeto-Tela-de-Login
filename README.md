@@ -17,7 +17,7 @@ Este projeto é uma **tela de login simples** construída com **React**. O objet
 
 - `Login.jsx`: Componente funcional que representa a tela de login.
 - `Login.css`: Arquivo de estilos para personalizar aparência dos inputs, botão e layout.
-- `App.js` ou outro componente principal: Importa e exibe o `Login`.
+- `App.js`: Importa e exibe o `Login`.
 
 ---
 
