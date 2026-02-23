@@ -44,5 +44,4 @@ Este projeto é uma **tela de login simples** construída com **React**. O objet
 ## Dependências
 
    - npm install
-   - npm install react-icons
    - npm run dev (para rodar localmente) 
